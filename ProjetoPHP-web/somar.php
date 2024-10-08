@@ -45,4 +45,4 @@ function dividir($num1,$num2){
 
 if ($resp==0) {
     echo "ZERO";
-}else {echo "a $ope de $numero1 e $numero2 é $resp";}
+}else {echo "A $ope de $numero1 e $numero2 é $resp";}
